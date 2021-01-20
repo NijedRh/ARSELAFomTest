@@ -6,4 +6,4 @@
  4) npm install
  5) npm run build
  6) npm start
- 7)type in browser : http://localhost:3000/form
+ 7) type in browser : http://localhost:3000/form

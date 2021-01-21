@@ -1,8 +1,8 @@
 # ARSELAFormTest
- to open this node application :
+ to open this application :
  1) download mongodb compass 
  2) create new database : Database Name : FormDB / Collection Name : forms
- 3) clone this repositorie : git clone https://github.com/NijedRh/ARSELAFormTest.git
+ 3) clone this repository : git clone https://github.com/NijedRh/ARSELAFormTest.git
  4) npm install
  5) npm run build
  6) npm start
